@@ -1,7 +1,7 @@
 Koda JS
 =======
 
-Simple JS framework for creating active interfaces.
+Simple JS framework for creating GUIs by elements with predefined behaviour.
 
 
 Features
@@ -14,6 +14,18 @@ Features
 * Module structure, write your own control-elements, and controllers
 * Complex gui elements must be profidedd with specific html layout
 
+Control elements
+----------------
+
+* autocomplete
+* button
+* calendar
+* form
+* link
+* menubutton
+* select
+* tabs
+* textinput
 
 Example usage
 -------------
