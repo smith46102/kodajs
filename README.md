@@ -12,7 +12,7 @@ Features
 * Elements uses HTML-attributes as options
 * Elements can call parent GUI actions as event callbacks
 * Module structure, write your own control-elements, and controllers
-* Complex gui elements must be profidedd with specific html layout
+* Complex gui elements must be provied with specific html layout
 
 Control elements
 ----------------
